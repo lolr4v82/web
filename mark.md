@@ -1,4 +1,4 @@
 # A test website
 
 ## It works!
-<span style="color:blue">some *blue* text</span>
+<p> Hello <span style="color:blue">some *blue* text</span> </p>
